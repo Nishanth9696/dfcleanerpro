@@ -5,6 +5,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 > A lightweight and efficient DataFrame preprocessing library designed for modern data workflows.
+> **dfcleanerpro** is a simple Python library to clean Pandas DataFrames quickly.
 
 ---
 
